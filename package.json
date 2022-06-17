@@ -1,0 +1,17 @@
+{
+  "name": "com.kostej.hexgrid",
+  "version": "1.0.0",
+  "displayName": "Hex grid",
+  "description": "Simple hex grid with pathfinding",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "grid",
+    "hexagon"
+  ],
+  "author": {
+    "name": "Ivo Pesak",
+    "email": "hapesak@seznam.cz"
+  }
+}
